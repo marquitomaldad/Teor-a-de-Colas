@@ -1,0 +1,4 @@
+    public static void main(String[] args) {
+        // Tu código va aquí
+        System.out.println("¡Hola, mundo!");
+    }
